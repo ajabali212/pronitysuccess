@@ -42,30 +42,63 @@
                                 <h1 class="banner-title">Specialised in<br> LIFE LONG LEARNING</h1>
                                <!--  <p class="banner-desc">Thousands of students are already studying in Dlear<br> University for all ages!</p> -->
                             </div>
-                            <div class="banner-btn pt-15">
+                            <!-- <div class="banner-btn pt-15">
                                 <a href="coureses-grid.html" class="back-btn">Discover More Course</a>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
                 <!--================= Banner Section End Here =================-->
 
+                <!--=================  About Section Start Here ================= -->
+                <div class="about__area p-relative mb-100 pt-50">
+                    <div class="container about__area-width">
+                        <div class="row about-shadow">
+                            <div class="col-lg-6">
+                                <div class="about__image">
+                                    <img src="assets/images/Managing Director.png" alt="About">
+                                </div>
+                            </div>
+                            <div class="col-lg-6 pl-50 md-pl-15">
+                                <div class="about__content">
+                                    <h2 class="back__title">
+                                        KALWANT SINGH SIDHU
+                                        <br> 
+                                        Managing Director
+                                    </h2>
+                                    <p class="about__paragraph">KARL is a Trainer and Business Development Consultant with his 41 years’ experience in business training and consultancy he has produced many successful entrepreneurs. He has also worked in Financial Service Industry for more than 41 years and as a Bank Manager with Maybank for over 20 years. <br>
+                                   <!--  Currently, his goal is to educate and to consult entrepreneurs with special tactical marketing strategies to  keep up with the demand of economy post Covid-19, to encourage inter-collaborations and be as competitive with professionals worldwide as we approach new economic era. <br>
+                                    As a business consultant and trainer, he is always being invited by companies to train their staff to be more proactive and stay motivated. <br>
+                                    Despite his busy schedule, he always makes time to motivate and educate his business students to be strong and prepared at all times with economic challenges in current uncertain times. --> 
+                                    </p>
+                                    <!-- <img class="about__signature" src="assets/images/about/signature.png" alt="Signature"> -->
+                                    <div class="about__btn md-mb-60">
+                                        <a href="" class="back-btn"> Read More...</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--================= About Section End Here ================= -->
+
                 <!--=================  Popular Topics Section Start Here ================= -->
-                <div class="back_popular_topics pt-120 pb-120">
+                <div class="back_popular_topics pt-50 pb-200">
                     <div class="container"> 
                         <div class="back__title__section text-center">
-                            <h6 class="back__subtitle">Browse Categories</h6>
-                            <h2 class="back__tittle"> Popular Topics to Learn</h2>
+                            <!-- <h6 class="back__subtitle">Browse Categories</h6> -->
+                            <h2 class="back__tittle"> List of Programs</h2>
                         </div>                       
                         <div class="row">
                             <div class="col-md-3">
                                 <div class="item__inner">                                    
                                     <div class="icon">
-                                        <img src="assets/images/icon/icon.png" alt="Icon image">
+                                        <img src="{{asset('assets/images/icon/icon.png')}}" alt="Icon image">
                                     </div>
                                     <div class="back-content">
-                                        <h3 class="back-title"><a href="coureses-grid.html">Environmental <br> Sciences</a></h3>
-                                        <p>5 Courses</p>
+                                        <h3 class="back-title"><a href="coureses-grid.html">
+                                            Management & Leadership</a></h3>
+                                        <!-- <p>5 Courses</p> -->
                                     </div>                                    
                                 </div>
                             </div>
@@ -75,8 +108,9 @@
                                         <img src="assets/images/icon/2.png" alt="Icon image">
                                     </div>
                                     <div class="back-content">
-                                        <h3 class="back-title"><a href="coureses-grid.html">Data Science & <br> Analytics</a></h3>
-                                        <p>8 Courses</p>
+                                        <h3 class="back-title"><a href="coureses-grid.html">
+                                            Interpersonal Skills</a></h3>
+                                       <!--  <p>8 Courses</p> -->
                                     </div>                                    
                                 </div>
                             </div>
@@ -86,8 +120,8 @@
                                         <img src="assets/images/icon/3.png" alt="Icon image">
                                     </div>
                                     <div class="back-content">
-                                        <h3 class="back-title"><a href="coureses-grid.html">Business <br> & Management</a></h3>
-                                        <p>14 Courses</p>
+                                        <h3 class="back-title"><a href="coureses-grid.html">Administration & Secretarial</a></h3>
+                                        <!-- <p>14 Courses</p> -->
                                     </div>                                    
                                 </div>
                             </div>
@@ -97,48 +131,23 @@
                                         <img src="assets/images/icon/4.png" alt="Icon image">
                                     </div>
                                     <div class="back-content">
-                                        <h3 class="back-title"><a href="coureses-grid.html">Learning <br> Management</a></h3>
-                                        <p>7 Courses</p>
+                                        <h3 class="back-title"><a href="coureses-grid.html">Strategy <br><br></a></h3>
+                                       <!--  <p>7 Courses</p> -->
                                     </div>                                    
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="text-center pt-20">
-                        <a href="coureses-grid.html" class="back-btn-border"> Browse more Courses</a>
+                        <a href="coureses-grid.html" class="back-btn-border"> Browse more Programs</a>
                     </div>
                 </div>
                 <!--=================  Popular Topics Section End Here ================= -->
 
-                <!--=================  About Section Start Here ================= -->
-                <div class="about__area p-relative mb-120">
-                    <div class="container about__area-width">
-                        <div class="row about-shadow">
-                            <div class="col-lg-6">
-                                <div class="about__image">
-                                    <img src="assets/images/about/learners-lesson.jpg" alt="About">
-                                </div>
-                            </div>
-                            <div class="col-lg-6 pl-50 md-pl-15">
-                                <div class="about__content">
-                                    <h2 class="about__title">About <br> Dlear University</h2>
-                                    <p class="about__paragraph">Me old mucker he nicked it barmy happy days super at public<br>
-                                        school David, cheeky so I said excuse my French Eaton wellies <br> owt to do with me bum
-                                        bag.
-                                    </p>
-                                    <img class="about__signature" src="assets/images/about/signature.png" alt="Signature">
-                                    <div class="about__btn md-mb-60">
-                                        <a href="about.html" class="back-btn"> University Overview</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--================= About Section End Here ================= -->
+                
 
                 <!--================= Course Section Start Here =================-->
-                <div class="back__course__area pt-120 pb-90">
+                <!-- <div class="back__course__area pt-120 pb-90">
                     <img class="back__shape__1" src="assets/images/course/shape/1.png" alt="Shape Image">
                     <img class="back__shape__2" src="assets/images/course/shape/02.png" alt="Shape Image">
                     <div class="container">
@@ -293,11 +302,11 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!--================= Course Section End Here =================-->
 
                 <!--=================  Event Section Start Here ================= -->
-                <div class="event__area p-relative pb-100 pt-120">
+                <!-- <div class="event__area p-relative pb-100 pt-120">
                     <div class="container event__width">
                         <div class="row">
                             <div class="col-lg-8 pr-80">
@@ -380,11 +389,11 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!--=================  Event Section End Here ================= -->
                 
                 <!--================= Academic Section Start Here =================-->
-                <div class="academic__area p-relative pb-65">
+               <!--  <div class="academic__area p-relative pb-65">
                     <div class="container academic__width">
                         <div class="row">
                             <div class="col-xxl-6 offset-xxl-3 col-xl-6 offset-xl-3 col-lg-6 offset-lg-3">
@@ -471,11 +480,11 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!--================= Academic Section Start Here =================-->
 
                 <!--================= Call to Action Section Start Here =================-->
-                <div class="cta__area p-relative m-img pt-120 pb-155">
+                <!-- <div class="cta__area p-relative m-img pt-120 pb-155">
                     <div class="container cta__width">
                         <div class="row">
                             <div class="col-xxl-12">
@@ -486,11 +495,11 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!--================= Call to Action Section End Here =================-->
 
                 <!--================= Feature Section Start Here =================-->
-                <div class="feature__area">
+                <!-- <div class="feature__area">
                     <div class="container feature__width">
                         <div class="row">
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
@@ -531,7 +540,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!--================= Feature Section End Here =================-->
 
                 <!--================= Counter Section Start Here =================-->
@@ -693,7 +702,7 @@
                 <!--================= Blog Section End Here =================-->
             </div>
         </div>
-        <div class="newsletter__area">
+        <!-- <div class="newsletter__area">
             <div class="container newsletter__width">
                 <div class="row">
                     <div class="col-xxl-12">
@@ -711,5 +720,5 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
 @endsection

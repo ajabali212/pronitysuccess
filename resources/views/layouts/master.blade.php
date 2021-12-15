@@ -3,14 +3,14 @@
     <head>
         <!--================= Meta tag =================-->
         <meta charset="utf-8">
-        <title>PRONITY SUCCESS SDN BHD</title>
+        <title>PRONITY SUCCESS</title>
         <meta name="description" content="">
         <!--================= Responsive Tag =================-->
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!--================= Favicon =================-->
-        <link rel="apple-touch-icon" href="{{asset('assets/images/fav.png')}}">
-        <link rel="shortcut icon" type="image/x-icon" href="{{asset('assets/images/fav.png')}}">        
+        <link rel="apple-touch-icon" href="{{asset('assets/images/fav2.png')}}">
+        <link rel="shortcut icon" type="image/x-icon" href="{{asset('assets/images/fav2.png')}}">        
         <!--================= Bootstrap V5 css =================-->
         <link rel="stylesheet" type="text/css" href="{{asset('assets/css/bootstrap.min.css')}}">
         <!--================= Back Menus css =================-->
@@ -36,7 +36,7 @@
         <!--================= Preloader Section Start Here =================-->        
         <div id="back__preloader">
             <div id="back__circle_loader"></div>
-            <div class="back__loader_logo"><img src="{{asset('assets/images/preload.png')}}" alt="Preload"></div>
+            <div class="back__loader_logo"><img src="{{asset('assets/images/preload2.png')}}" alt="Preload"></div>
         </div>        
         <!--================= Preloader Section End Here =================-->
 

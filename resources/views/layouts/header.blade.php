@@ -17,8 +17,8 @@
                             <!--================= Menu Structure =================--> 
                             <div class="back-inner-menus">
                                 <ul id="backmenu" class="back-menus back-sub-shadow">
-                                    <li> <a href="#">Home</a></li>
-                                    <li> <a href="">About Us</a></li>
+                                    <li> <a href="{{route('home')}}">Home</a></li>
+                                    <li> <a href="{{route('about')}}">About Us</a></li>
                                     <li> <a href="coureses-grid.html">Our Services</a>
                                         <ul>
                                             <li><a href="coureses-grid.html">Courses</a></li>
@@ -28,27 +28,8 @@
                                             <li><a href="coureses-single.html">Courses Single</a></li>
                                         </ul>
                                     </li>
-                                    <!-- <li> <a href="blog.html">Blog</a>
-                                        <ul>
-                                            <li><a href="blog.html">Blog</a>
-                                                <ul>
-                                                    <li><a href="blog.html">Classic</a></li>
-                                                    <li><a href="blog-left-sidebar.html">Left Sidebar</a></li>
-                                                    <li><a href="blog-right-sidebar.html">Right Sidebar</a></li>
-                                                    <li><a href="blog-fullwidth.html">Full Width</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="blog-details.html">Blog Single</a>
-                                                <ul>
-                                                    <li><a href="blog-details.html">Classic</a></li>
-                                                    <li><a href="blog-details-left.html">Left Sidebar</a></li>
-                                                    <li><a href="blog-details-right.html">Right Sidebar</a></li>
-                                                    <li><a href="blog-details-full.html">Full Width</a></li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    </li> -->
-                                    <li> <a href="contact.html">Contact Us</a></li>
+                                    
+                                    <li> <a href="{{route('contact')}}">Contact Us</a></li>
                                 </ul>
                                 
                                 <!-- <div class="searchbar-part">

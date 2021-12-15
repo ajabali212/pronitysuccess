@@ -8,7 +8,7 @@
                                 <div class="footer-logo white">
                                     <a href="" class="logo-text"> <img src="assets/images/logo.jpeg" alt="logo" width="150px"></a>
                                 </div>
-                                <h5 class="footer-subtitle">We have lots of courses and programs from the main market experts.</h5>
+                                <h6 class="">PRONITY Success Sdn Bhd (PRONITY), was established to provide industry-relevant skills training for the manufacturing and services sectors for the continuing development of the human capital. </h6>
                                 <h6 class="back-follow-us">Follow us</h6>
                                 <ul class="social-links">
                                     <li><a href="#"><span aria-hidden="true" class="social_facebook"></span></a></li>
@@ -22,12 +22,9 @@
                                 <h3 class="footer-title">About Us</h3>
                                 <div class="footer-menu">
                                     <ul>
-                                        <li><a href="about.html">About</a></li>
-                                        <li><a href="coureses-grid.html">Courses</a></li>
-                                        <li><a href="#">Events</a></li>
-                                        <li><a href="#">Career</a></li>
-                                        <li><a href="profile.html">Become a Teacher</a></li>
-                                        <li><a href="contact.html">Contact</a></li>
+                                        <li><a href="">Pronity's Vision</a></li>
+                                        <li><a href="">Pronity's Mission</a></li>
+                                        <li><a href="#">Our Quality Policy</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -40,9 +37,6 @@
                                         <li><a href="#">Browse Library</a></li>
                                         <li><a href="#">Library</a></li>
                                         <li><a href="#">Partners</a></li>
-                                        <li><a href="blog.html">News & Blog</a></li>
-                                        <li><a href="#">FAQ</a></li>
-                                        <li><a href="#">Tutorials</a></li>
                                     </ul>
                                 </div>
                             </div>
