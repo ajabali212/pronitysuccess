@@ -80,38 +80,40 @@
                                             Total commitment to service excellence and quality. 
                                         </blockquote> -->
 
-                                        <a href="#" class="post-author">
+                                        <a href="#" class="post-author" style="text-align: justify; text-justify: inter-word;">
                                             <!-- <div class="avatar">
                                                 <img src="assets/images/single-blog/1.jpg" alt=""> 
                                             </div> -->
                                             <div class="info">
                                                 <h4 class="name">Pronity’s Vision</h4>                                                
                                                 <p>To be the leading organisation in providing a comprehensive range of training programmes and advanced learning opportunities with educational excellence in industry practices and technology in tandem with the nation’s surge towards developed nation status.</p>
+
+                                                <h4 class="name pt-30">Pronity’s Mission</h4>                                                
+                                                <p>To establish the PRONITY as the centre of excellence to expand and diversify training and educational programmes and to professional and industry-relevant qualifications.</p>
+
+                                                <h4 class="name pt-30">Our Quality Policy</h4>                                                
+                                                <p>Total commitment to service excellence and quality.</p>
                                                 
                                             </div>
                                         </a>
 
-                                        <a href="#" class="post-author">
-                                            <!-- <div class="avatar">
-                                                <img src="assets/images/single-blog/1.jpg" alt=""> 
-                                            </div> -->
+                                        <!-- <a href="#" class="post-author">
+                                           
                                             <div class="info">
                                                 <h4 class="name">Pronity’s Mission</h4>                                                
                                                 <p>To establish the PRONITY as the centre of excellence to expand and diversify training and educational programmes and to professional and industry-relevant qualifications.</p>
                                                 
                                             </div>
-                                        </a>
+                                        </a> -->
 
-                                        <a href="#" class="post-author">
-                                            <!-- <div class="avatar">
-                                                <img src="assets/images/single-blog/1.jpg" alt=""> 
-                                            </div> -->
+                                        <!-- <a href="#" class="post-author">
+                                           
                                             <div class="info">
                                                 <h4 class="name">Our Quality Policy</h4>                                                
                                                 <p>Total commitment to service excellence and quality.</p>
                                                 
                                             </div>
-                                        </a>
+                                        </a> -->
 
                                     </div>
                                 </div>                          
