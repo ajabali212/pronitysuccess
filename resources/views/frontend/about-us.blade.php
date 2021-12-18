@@ -120,6 +120,39 @@
                     </div>
                 </div>
                 <!--================= Blog Single End Here =================-->
+
+                <!--=================  About Section Start Here ================= -->
+                <div class="about__area about2__area p-relative mb-100">
+                    <div class="container about__area-width">
+                        <div class="row">
+                            <div class="col-lg-5">
+                                <div class="about__image">
+                                    <img class="back__shape__1" src="{{asset('assets/images/about/dots2.png')}}" alt="Shape Image">
+                                    <img src="{{asset('assets/images/about/COMPANY SSM REGISTRATION.png')}}" alt="About">
+                                    <img class="back__shape__2" src="{{asset('assets/images/about/dots1.png')}}" alt="Shape Image">
+                                </div>
+                            </div>
+                            <div class="col-lg-7 pl-70">
+                                <div class="about__content">
+                                    <!-- <h6>Everything In Dlear</h6> -->
+                                    <h2 class="about__title">COMPANY SSM REGISTRATION</h2>
+                                    <p class="about__paragraph">PRONITY SUCCESS SDN BHD (1409926-U).</p>
+                                    <ul>
+                                        <li><i class="icon_check"></i> Act 2016</li>
+                                        <li><i class="icon_check"></i> Act 777</li>
+                                        <li><i class="icon_check"></i> Certified</li>
+                                        <li><i class="icon_check"></i> SSM Registration</li>
+                                    </ul>
+                                    <div class="about__btn pt-30">
+                                       <!--  <a href="coureses-grid.html" class="back-btn-border"> View Courses </a> -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--================= About Section End Here ================= -->
+
             </div>
         </div>
         <!--================= Back Wrapper End Here =================-->

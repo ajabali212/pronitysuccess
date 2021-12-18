@@ -551,18 +551,18 @@
                                 <div class="row">
                                     <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-3 col-sm-6">
                                         <div class="count__content">
-                                            <h3 class="count__content--title-1 counter">10</h3>
-                                            <h3 class="count__content--title-2">K</h3>
+                                            <h3 class="count__content--title-1 counter">100</h3>
+                                            <!-- <h3 class="count__content--title-2">K</h3> -->
                                             <span class="count__content--plus">+</span>
-                                            <p class="count__content--paragraph">Students worldwide</p>
+                                            <p class="count__content--paragraph">Conducts Promgrammes</p>
                                         </div>
                                     </div>
                                     <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-3 col-sm-6">
                                         <div class="count__content">
-                                            <h3 class="count__content--title-1 counter">45</h3>
+                                            <h3 class="count__content--title-1 counter">1</h3>
                                             <h3 class="count__content--title-2">K</h3>
                                             <span class="count__content--plus">+</span>
-                                            <p class="count__content--paragraph">University worldwide</p>
+                                            <p class="count__content--paragraph">Participants</p>
                                         </div>
                                     </div>
                                     <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-3 col-sm-6">
@@ -592,23 +592,23 @@
                 <div class="back-blog__area blog__area pt-90 pb-120">
                     <div class="container blog__width">
                         <div class="back__title__section text-center">
-                            <h6 class="back__subtitle">From our blog</h6>
-                            <h2 class="back__tittle"> Latest from our Blogs </h2>
+                            <!-- <h6 class="back__subtitle">From our blog</h6> -->
+                            <h2 class="back__tittle"> Lecture and Training Room </h2>
                         </div>
                         <div class="row">
                             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                                 <div class="blog__card mb-50">
                                     <div class="blog__thumb w-img p-relative">
                                         <a class="blog__thumb--image" href="blog-details.html">
-                                            <img src="assets/images/blog/1.jpg" alt="This the first card image">
+                                            <img src="{{asset('assets/images/Lecture and Training Room/1.png')}}" alt="This the first card image">
                                         </a>
-                                        <a class="blog__thumb--pre-title" href="blog.html">Podcast</a>
+                                        <!-- <a class="blog__thumb--pre-title" href="blog.html">Podcast</a> -->
                                     </div>
                                     <div class="blog__card--content">
                                         <div class="blog__card--content-area mb-25">
-                                            <span class="blog__card--date">April 10, 2022</span>
-                                            <h3 class="blog__card--title"><a href="blog-details.html">Fostering future Schools <br> & social Innovation</a></h3>
-                                            <a class="blog__card--link" href="blog-details.html"> Read more <i class="arrow_right blog__card--link-icon"></i></a>
+                                            <!-- <span class="blog__card--date">April 10, 2022</span> -->
+                                            <h3 class="blog__card--title"><a href="blog-details.html">Lecture and Training Room</a></h3>
+                                            <!-- <a class="blog__card--link" href="blog-details.html"> Read more <i class="arrow_right blog__card--link-icon"></i></a> -->
                                         </div>
                                         <div class="blog__card--icon ">
                                             <div class="blog__card--icon-1">
@@ -633,15 +633,15 @@
                                 <div class="blog__card mb-50">
                                     <div class="blog__thumb w-img p-relative">
                                         <a class="blog__thumb--image" href="blog-details.html">
-                                            <img src="assets/images/blog/2.jpg" alt="This the first card image">
+                                            <img src="{{asset('assets/images/Lecture and Training Room/2.png')}}" alt="This the first card image">
                                         </a>
-                                        <a class="blog__thumb--pre-title" href="blog.html">Video</a>
+                                        <!-- <a class="blog__thumb--pre-title" href="blog.html">Video</a> -->
                                     </div>
                                     <div class="blog__card--content">
                                         <div class="blog__card--content-area mb-25">
-                                            <span class="blog__card--date">July 18, 2022</span>
-                                            <h3 class="blog__card--title"><a href="blog-details.html">The Surprising Reason <br> CollegeTuition</a></h3>
-                                            <a class="blog__card--link" href="blog-details.html">Read more<i class="arrow_right blog__card--link-icon"></i></a>
+                                            <!-- <span class="blog__card--date">July 18, 2022</span> -->
+                                            <h3 class="blog__card--title"><a href="blog-details.html">Lecture and Training Room</a></h3>
+                                            <!-- <a class="blog__card--link" href="blog-details.html">Read more<i class="arrow_right blog__card--link-icon"></i></a> -->
                                         </div>
                                         <div class="blog__card--icon d-flex align-items-center">
                                             <div class="blog__card--icon-1">
@@ -666,15 +666,15 @@
                                 <div class="blog__card mb-50">
                                     <div class="blog__thumb w-img p-relative">
                                         <a class="blog__thumb--image" href="blog-details.html">
-                                            <img src="assets/images/blog/3.jpg" alt="This the first card image">
+                                            <img src="{{asset('assets/images/Lecture and Training Room/3.png')}}" alt="This the first card image">
                                         </a>
-                                        <a class="blog__thumb--pre-title" href="blog.html">Article</a>
+                                        <!-- <a class="blog__thumb--pre-title" href="blog.html">Article</a> -->
                                     </div>
                                     <div class="blog__card--content">
                                         <div class="blog__card--content-area mb-25">
-                                            <span class="blog__card--date">October 10, 2021</span>
-                                            <h3 class="blog__card--title"><a href="blog-details.html">Those other <br> College Expenses about</a></h3>
-                                            <a class="blog__card--link" href="blog-details.html">Read more<i class="arrow_right blog__card--link-icon"></i></a>
+                                            <!-- <span class="blog__card--date">October 10, 2021</span> -->
+                                            <h3 class="blog__card--title"><a href="blog-details.html">Lecture and Training Room</a></h3>
+                                            <!-- <a class="blog__card--link" href="blog-details.html">Read more<i class="arrow_right blog__card--link-icon"></i></a> -->
                                         </div>
                                         <div class="blog__card--icon d-flex align-items-center">
                                             <div class="blog__card--icon-1">
