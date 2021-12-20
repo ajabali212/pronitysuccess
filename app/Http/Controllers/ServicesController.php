@@ -8,6 +8,6 @@ class ServicesController extends Controller
 {
     public function index()
     {
-        return view('frontend.services');
+        return view('frontend.service 1');
     }
 }

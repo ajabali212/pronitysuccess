@@ -25,3 +25,6 @@ Route::get('/about-us',[AboutController::class,'index'])->name('about');
 Route::get('/our-services',[ServicesController::class,'index'])->name('services');
 Route::get('/contact-us',[ContactController::class,'index'])->name('contact');
 
+//services
+//Route::get('/services 1',[ContactController::class,'index'])->name('contact');
+
