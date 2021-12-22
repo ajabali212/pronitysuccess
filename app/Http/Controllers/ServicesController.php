@@ -26,8 +26,5 @@ class ServicesController extends Controller
         return view('frontend.services4');
     }
 
-    public function services5()
-    {
-        return view('frontend.services5');
-    }
+    
 }
