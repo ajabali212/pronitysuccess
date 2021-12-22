@@ -66,7 +66,7 @@
                                         <br> 
                                         Managing Director
                                     </h2>
-                                    <p class="about__paragraph">KARL is a Trainer and Business Development Consultant with his 41 years’ experience in business training and consultancy he has produced many successful entrepreneurs. He has also worked in Financial Service Industry for more than 41 years and as a Bank Manager with Maybank for over 20 years. <br>
+                                    <p class="about__paragraph" style="text-align: justify; text-justify: inter-word;">KARL is a Trainer and Business Development Consultant with his 41 years’ experience in business training and consultancy he has produced many successful entrepreneurs. He has also worked in Financial Service Industry for more than 41 years and as a Bank Manager with Maybank for over 20 years. <br>
                                    <!--  Currently, his goal is to educate and to consult entrepreneurs with special tactical marketing strategies to  keep up with the demand of economy post Covid-19, to encourage inter-collaborations and be as competitive with professionals worldwide as we approach new economic era. <br>
                                     As a business consultant and trainer, he is always being invited by companies to train their staff to be more proactive and stay motivated. <br>
                                     Despite his busy schedule, he always makes time to motivate and educate his business students to be strong and prepared at all times with economic challenges in current uncertain times. --> 

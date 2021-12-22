@@ -8,6 +8,26 @@ class ServicesController extends Controller
 {
     public function index()
     {
-        return view('frontend.service 1');
+        return view('frontend.services1');
+    }
+
+    public function services2()
+    {
+        return view('frontend.services2');
+    }
+
+    public function services3()
+    {
+        return view('frontend.services3');
+    }
+
+    public function services4()
+    {
+        return view('frontend.services4');
+    }
+
+    public function services5()
+    {
+        return view('frontend.services5');
     }
 }

@@ -21,11 +21,11 @@
                                     <li> <a href="{{route('about')}}">About Us</a></li>
                                     <li> <a href="#">Our Services</a>
                                         <ul>
-                                            <li><a href="{{route('services')}}}">Services</a></li>
-                                            <li><a href="coureses-list.html">Courses List</a></li>
-                                            <li><a href="coureses-single.html">Courses Single</a></li>
-                                            <li><a href="coureses-single.html">Courses Single</a></li>
-                                            <li><a href="coureses-single.html">Courses Single</a></li>
+                                            <li><a href="{{route('services1')}}">Service 1</a></li>
+                                            <li><a href="{{route('services2')}}">Service 2</a></li>
+                                            <li><a href="{{route('services3')}}">Service 3</a></li>
+                                            <li><a href="{{route('services4')}}">Service 4</a></li>
+                                            
                                         </ul>
                                     </li>
                                     
